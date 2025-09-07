@@ -23,3 +23,5 @@ git clone https://github.com/your-username/Ip-Info.git
 cd Ip-Info
 
 # Install required dependencies
+
+python ipInformation.py
