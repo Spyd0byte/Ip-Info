@@ -24,4 +24,5 @@ cd Ip-Info
 
 # Install required dependencies
 
+#Run
 python ipInformation.py
