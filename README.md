@@ -17,7 +17,7 @@ This tool is designed to help cybersecurity enthusiasts, penetration testers, an
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Ip-Info.git
+git clone https://github.com/Spyd0byte/Ip-info.git
 
 # Navigate to the project directory
 cd Ip-Info
