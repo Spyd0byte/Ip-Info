@@ -25,7 +25,7 @@ cd Ip-Info
 # Install required dependencies
 
 #Uses ::
-python ip_info.py <target-ip>
+python ipinformation.py <target-ip>
 
 ```
 
